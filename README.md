@@ -1,1 +1,6 @@
 # Ideas
+
+/English/
+
+
+/Science/
